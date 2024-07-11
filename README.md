@@ -33,8 +33,6 @@ I'm Vincent Prévost, a web developer in career transition with a passion for fu
 - Scuba diving (level 1)
 
 ### 📬 Contact
-- **Email**: vincentprevost@live.fr
-- **Phone**: 06 78 61 83 12
 - [LinkedIn](https://www.linkedin.com/in/vincent-pr%C3%A9vost-0415b5125/)
 
 - 🔭 I’m currently working on a new pr oject related to full-stack development
