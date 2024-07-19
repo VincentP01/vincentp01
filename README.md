@@ -34,13 +34,4 @@ I'm Vincent Prévost, a web developer in career transition with a passion for fu
 
 ### 📬 Contact
 - [LinkedIn](https://www.linkedin.com/in/vincent-pr%C3%A9vost-0415b5125/)
-
-- 🔭 I’m currently working on a new pr oject related to full-stack development
-- 🌱 I’m currently learning advanced React and Node.js
-- 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with mastering DevOps practices
-- 💬 Ask me about my journey from law to web development
-- 📫 How to reach me: Check out the contact info above
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love combining my theater skills with tech presentations!
 -->
