@@ -30,6 +30,5 @@ I'm Vincent Prévost, a web developer in career transition with a passion for fu
 - Theater / improvisation
 - Scuba diving (level 1)
 
-### 📬 Contact
-- [LinkedIn](https://www.linkedin.com/in/vincent-pr%C3%A9vost-0415b5125/)
--->
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-hj-prevost/)
